@@ -1,4 +1,4 @@
-# Intern1Repository
+# TataForageInternship #
 Superstore Online Retail Sales Analysis.
 
 **This Internship main theme is to get business insights & expectations to make decision of it.**
