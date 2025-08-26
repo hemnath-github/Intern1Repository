@@ -31,7 +31,7 @@ This involved
 (*) Standardizing country names and customer identifiers.
 (*) Filtering out irrelevant data points.
 
-Results :
+**Results :**
 
 A1, **2011 Revenue Time Series** (CEO Focus)
 
