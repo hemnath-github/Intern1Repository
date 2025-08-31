@@ -9,8 +9,7 @@ Tools :
 
 CMO and CEO, interested to get answer the following questions,
 
-Q 1, The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only.He would like to view granular data by looking into revenue for each month. 
-The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur.
+Q 1, The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only.He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur.
 
 Q 2, The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.
 
@@ -55,12 +54,12 @@ Details:
 As you can see, The top customer is our highest-value customer, followed by next 2 customers."
 "These customers are vital to our business. We recommend implementing targeted loyalty programs and personalized offers to maintain their satisfaction."
 
-
 A4,  **Global Product Demand** (CEO Focus)
 
 Details:
 "CEO, here's a global view of product demand, excluding the UK. Map  color-coded demand levels, regions with high demand.
 "We can clearly see that regions have the highest demand for our products."
+
 
 **Key TakeAways :**
 
