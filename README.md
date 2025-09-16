@@ -24,11 +24,16 @@ Our analysis is based on the 2011 transactional data from our retail database.
 We began by extracting and consolidating this data into a format suitable for analysis.
 
 
-(*) To ensure accuracy, we performed rigorous data cleaning. 
+(.) To ensure accuracy, we performed rigorous data cleaning. 
+
 This involved 
-(*) Handling missing values and inconsistencies in date and revenue fields,
-(*) Standardizing country names and customer identifiers.
-(*) Filtering out irrelevant data points.
+
+(.) Handling missing values and inconsistencies in date and revenue fields,
+
+(.) Standardizing country names and customer identifiers,
+
+(.) Filtering out irrelevant data points.
+
 
 **Results :**
 
